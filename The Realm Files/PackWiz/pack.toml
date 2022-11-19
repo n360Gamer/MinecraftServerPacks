@@ -1,0 +1,13 @@
+name = "TheRealm"
+author = "N360Gamer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d594d1ff5b708a2e29d0480279196c9df763df2d54d7a52eed6055f79bfbabd6"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.19.2"
